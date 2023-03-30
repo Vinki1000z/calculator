@@ -1,0 +1,26 @@
+.container1{
+    text-align: center;
+    margin-top:23px;
+}
+.t{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+ th, td {
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+#text{
+    height:31px;
+    width: 50%;border-radius: 4px;
+}
+button{
+    margin: 3px;
+    border:2px solid black;
+    border-radius: 4px;
+}
